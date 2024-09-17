@@ -1,0 +1,9 @@
+You have to install following packages in pycharm:
+--------------------------------------------------
+opencv-python
+scikit-learn
+Sequential
+tensorflow
+keras
+matplotlib
+numpy
